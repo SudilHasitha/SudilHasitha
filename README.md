@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React (TypeScript) application at work
 - 🌱 I’m currently learning Golang and React
 - 👯 I’m looking to collaborate on Full stack Project (Python, React, SQL)
-- 🤔 I’m looking for help with [this - >](https://github.com/SudilHasitha/LISA_CNN_ExplainerV3/tree/release-v.1)
+- 🤔 I’m looking for help with [Explainable AI framework](https://github.com/SudilHasitha/LISA_CNN_ExplainerV3/tree/release-v.1)
 - 💬 Ask me about Python 
 - 📫 How to reach me: sudilhasithaa51@gmail.com
 
