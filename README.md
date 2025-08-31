@@ -70,13 +70,3 @@
 </a>
 
 </div>
-
----
-
-<details>
-<summary><b>⚙️ Quick setup notes (you can keep this collapsed)</b></summary>
-
-- You can swap light/dark themes for the cards by appending `&theme=radical` (or any supported theme).
-- Update pinned repos in **Highlights** to your preferred projects.
-- If a card ever fails to load, refresh or try again—these images are generated on-the-fly.
-</details>
