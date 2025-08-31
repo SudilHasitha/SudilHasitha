@@ -3,7 +3,7 @@
 
 # Hi there, I'm Sudil 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Data+Engineer+%7C+Full-Stack+Builder;React+(TypeScript)++%E2%9D%A4%EF%B8%8F;Python%2C+SQL%2C+ML%2FAX+%28XAI%29;Always+learning+Golang" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Data+Engineer+%7C+Full-Stack+Builder;React+(TypeScript)++%E2%9D%A4%EF%B8%8F;Python%2C+SQL%2C+ML%2FAX+%28XAI%29;learning+Golang" alt="Typing intro" />
 
 </div>
 
