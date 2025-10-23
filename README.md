@@ -14,7 +14,6 @@
 - 🔭 Currently building **React (TypeScript)** apps at work  
 - 🌱 Learning **Golang** (and sharpening React patterns)  
 - 👯 Open to collaborate on **Full-stack** projects *(Python · React · SQL)*  
-- 🤔 Looking for help on my **Explainable AI framework** → [LISA_CNN_ExplainerV3](https://github.com/SudilHasitha/LISA_CNN_ExplainerV3/tree/release-v.1)  
 - 💬 Ask me about **Python**  
 - 📫 Reach me: **sudilhasithaa51@gmail.com**
 
