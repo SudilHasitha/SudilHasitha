@@ -58,14 +58,17 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=SudilHasitha&show_icons=true&hide_title=true&include_all_commits=true" alt="GitHub stats">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudilHasitha&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top languages">
-</a>
-<a href="https://git.io/streak-stats">
-  <img height="155" src="https://streak-stats.demolab.com?user=SudilHasitha&hide_longest_streak=true" alt="GitHub streak">
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=SudilHasitha&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudilHasitha&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  </a>
+
+  <p>
+    <a href="https://git.io/streak-stats">
+      <img height="160" src="https://streak-stats.demolab.com?user=SudilHasitha&hide_longest_streak=true&theme=tokyonight" alt="GitHub Streak" />
+    </a>
+  </p>
 
 </div>
