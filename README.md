@@ -44,9 +44,9 @@
 
 ### 📌 Highlights
 <p>
-  <a href="https://github.com/SudilHasitha/LISA_CNN_ExplainerV3">
+  <!-- <a href="https://github.com/SudilHasitha/LISA_CNN_ExplainerV3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudilHasitha&repo=LISA_CNN_ExplainerV3" alt="LISA_CNN_ExplainerV3 pin">
-  </a>
+  </a> -->
   <a href="https://github.com/SudilHasitha/goolgle_drive_clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudilHasitha&repo=goolgle_drive_clone" alt="Drive Clone pin">
   </a>
